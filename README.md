@@ -1,4 +1,4 @@
-# Zander's go-to web development resources
+# Web development resources
 
 <details>
   <summary>Table of contents</summary>
@@ -464,6 +464,6 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 
 - [Regex101](https://regex101.com/) Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 
---- 
+# Social 
 
-> If you think there are better alternatives, or that there should be something added to the list, please [reate an issue](https://github.com/mrmartineau/awesome-web-dev-resources/issues/new) or [create a pull request](https://github.com/mrmartineau/awesome-web-dev-resources/pulls)
+- [FB Sharing Markup / GraphQL](https://realfavicongenerator.net/social/#.W64DbBNKiV4) Generate custom previews on FB
